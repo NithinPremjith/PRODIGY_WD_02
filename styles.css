@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.stopwatch {
+    margin-top: 50px;
+}
+
+#display {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+button {
+    font-size: 18px;
+    margin: 5px;
+    padding: 10px 20px;
+}
+
+#laps {
+    margin-top: 20px;
+    text-align: left;
+}
